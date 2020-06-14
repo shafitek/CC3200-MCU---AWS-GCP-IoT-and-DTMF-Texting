@@ -23,7 +23,7 @@ The user composes a text message using DTMF audio signals from their phone which
 - Used Goertzel's algorthm to decode the DTMF signals from phone audio to text message.
 - Setup various peripherals, and timers.
 - Flashed SSL certificates of Amazon, Google, and IFTTT servers.
-- Constructed HTTP requests carefully from the bottom up, accounting for newline, carriage returns, etc.
+- Constructed HTTP request headers carefully from the bottom up, accounting for newline, carriage returns, etc.
 
 ---
 
